@@ -51,7 +51,7 @@ following steps:
 1. If you don't have a GitHub account, create one at [https://github.com/join](https://github.com/join).
 
 2. Register your GitHub username for this course by filling out this
-form: [https://goo.gl/forms/oreHBKjhHtJjptmu2](https://goo.gl/forms/oreHBKjhHtJjptmu2). This is due by the end of the first lab on Monday, 21 July. **You
+form: [https://goo.gl/forms/oreHBKjhHtJjptmu2](https://forms.gle/WQCtyhVMMhoLKdET9). This is due by the end of the first lab on Monday, 21 July. **You
 will not be able to submit any assignments if this is not done.**
 
 3. Before you can use GitHub on a campus computer, you need to configure
